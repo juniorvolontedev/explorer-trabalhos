@@ -25,6 +25,16 @@ body {
   background: var(--bg-primary);
 }
 
+.page {
+  max-width: 330px;
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
 header {
   margin: 10rem 0 8rem;
   font-family: var(--ff-heading);
